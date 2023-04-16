@@ -124,7 +124,7 @@
       ],
       "precio": "$ 1799,99-",
       "cuotas": "3 Cuotas sin Interés",
-      "imgz": "./img/pokemon/pikachu-1.webp",
+      "imgz": "https://dainnin.github.io/proyectowebimg/img/pokemon/pikachu-1.webp",
       "linka": [
         "ver colección",
         ""
