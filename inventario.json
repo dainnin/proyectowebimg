@@ -1,16 +1,20 @@
 {
-  "starwars":["START WARS & THE MANDALORIAN",
+  "frcrmd":["starwars","pokemon","harryp"],
+  "starwars":[
+    {
+      "descrip":["Disfruta de una saga que sigue agregando personajes a su colección."],
+      "frc":["START WARS & THE MANDALORIAN","Star Wars","starwarsx2"]
+    },
+  
     {
       "nompro": "Baby Yoda",
-      "descrip": "Revive los recuerdos de una saga llena de magia y encanto.",
       "idpro": "1x",
       "estado": [
-        "Disponible",
-        "agotado"
+       true,false
       ],
       "precio": "$ 1799,99-",
       "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/star-wars/baby-yoda-1.webp",
+      "imgz": "../img/star-wars/baby-yoda-1.webp",
       "linka": [
         "ver colección",
         ""
@@ -18,15 +22,14 @@
     },
     {
       "nompro": "Trooper",
-      "descrip": "Revive los recuerdos de una saga llena de magia y encanto.",
+     
       "idpro": "1x",
       "estado": [
-        "Disponible",
-        "agotado"
+        true,false
       ],
       "precio": "$ 1799,99-",
       "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/star-wars/trooper-1.webp",
+      "imgz": "../img/star-wars/trooper-1.webp",
       "linka": [
         "ver colección",
         ""
@@ -34,15 +37,14 @@
     },
     {
       "nompro": "Luke",
-      "descrip": "Revive los recuerdos de una saga llena de magia y encanto.",
+     
       "idpro": "1x",
       "estado": [
-        "Disponible",
-        "agotado"
+        true,false
       ],
       "precio": "$ 1799,99-",
       "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/star-wars/luke-1.webp",
+      "imgz": "../img/star-wars/luke-1.webp",
       "linka": [
         "ver colección",
         ""
@@ -50,33 +52,49 @@
     },
     {
       "nompro": "Boba Fett",
-      "descrip": "Revive los recuerdos de una saga llena de magia y encanto.",
+     
       "idpro": "1x",
       "estado": [
-        "Disponible",
-        "agotado"
+        true,false
       ],
       "precio": "$ 1799,99-",
       "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/star-wars/bobbafeth-1.webp",
+      "imgz": "../img/star-wars/bobbafeth-1.webp",
+      "linka": [
+        "ver colección",
+        ""
+      ]
+    },
+    {
+      "nompro": "Darth Vader",
+     
+      "idpro": "1x",
+      "estado": [
+        true,false
+      ],
+      "precio": "$ 1799,99-",
+      "cuotas": "3 Cuotas sin Interés",
+      "imgz": "../img/star-wars/darth-vader-1.jpg",
       "linka": [
         "ver colección",
         ""
       ]
     }
   ],
-  "pokemon": ["POKEMON INDIGO",
+  "pokemon": [
+    { 
+      "descrip":"Atrapa todos los que puedas y disfruta de una colección llena de amigos.",
+      "frc":["POKEMON INDIGO","Pokemon","pokemonx2"]},
     {
       "nompro": "Charmander",
-      "descrip": "Revive los recuerdos de una saga llena de magia y encanto.",
+      
       "idpro": "1x",
       "estado": [
-        "Disponible",
-        "agotado"
+        true,false
       ],
       "precio": "$ 1799,99-",
       "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/pokemon/charmander-1.webp",
+      "imgz": "../img/pokemon/charmander-1.webp",
       "linka": [
         "ver colección",
         ""
@@ -84,15 +102,14 @@
     },
     {
       "nompro": "Dragonite",
-      "descrip": "Revive los recuerdos de una saga llena de magia y encanto.",
+      
       "idpro": "1x",
       "estado": [
-        "Disponible",
-        "agotado"
+        true,false
       ],
       "precio": "$ 1799,99-",
       "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/pokemon/dragonite-1.webp",
+      "imgz": "../img/pokemon/dragonite-1.webp",
       "linka": [
         "ver colección",
         ""
@@ -100,15 +117,14 @@
     },
     {
       "nompro": "Pidgeotto",
-      "descrip": "Revive los recuerdos de una saga llena de magia y encanto.",
+      
       "idpro": "1x",
       "estado": [
-        "Disponible",
-        "agotado"
+        true,false
       ],
       "precio": "$ 1799,99-",
       "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/pokemon/pidgeotto-1.webp",
+      "imgz": "../img/pokemon/pidgeotto-1.webp",
       "linka": [
         "ver colección",
         ""
@@ -116,15 +132,14 @@
     },
     {
       "nompro": "Pikachu",
-      "descrip": "Revive los recuerdos de una saga llena de magia y encanto.",
+      
       "idpro": "1x",
       "estado": [
-        "Disponible",
-        "agotado"
+        true,false
       ],
       "precio": "$ 1799,99-",
       "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/pokemon/pikachu-1.webp",
+      "imgz": "../img/pokemon/pikachu-1.webp",
       "linka": [
         "ver colección",
         ""
@@ -132,15 +147,14 @@
     },
     {
       "nompro": "Vulpix",
-      "descrip": "Revive los recuerdos de una saga llena de magia y encanto.",
+      
       "idpro": "1x",
       "estado": [
-        "Disponible",
-        "agotado"
+        true,false
       ],
       "precio": "$ 1799,99-",
       "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/pokemon/vulpix-1.webp",
+      "imgz": "../img/pokemon/vulpix-1.webp",
       "linka": [
         "ver colección",
         ""
@@ -148,18 +162,20 @@
     }
    
   ],
-  "harryp": ["HARRY POTTER",
+  "harryp": [
+    {
+      "descrip":"Revive los recuerdos de una saga llena de magia y encanto.",
+      "frc":["HARRY POTTER", "Harry Potter","harrypx2"]},
     {
       "nompro": "Harry",
-      "descrip": "Revive los recuerdos de una saga llena de magia y encanto.",
+     
       "idpro": "1x",
       "estado": [
-        "Disponible",
-        "agotado"
+        true,false
       ],
       "precio": "$ 1799,99-",
       "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/harry-potter/harry-1.webp",
+      "imgz": "../img/harry-potter/harry-1.webp",
       "linka": [
         "ver colección",
         ""
@@ -167,15 +183,14 @@
     },
     {
       "nompro": "Hermione",
-      "descrip": "Revive los recuerdos de una saga llena de magia y encanto.",
+      
       "idpro": "1x",
       "estado": [
-        "Disponible",
-        "agotado"
+        true,false
       ],
       "precio": "$ 1799,99-",
       "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/harry-potter/hermione-1.webp",
+      "imgz": "../img/harry-potter/hermione-1.webp",
       "linka": [
         "ver colección",
         ""
@@ -183,15 +198,14 @@
     },
     {
       "nompro": "Luna leon",
-      "descrip": "Revive los recuerdos de una saga llena de magia y encanto.",
+      
       "idpro": "1x",
       "estado": [
-        "Disponible",
-        "agotado"
+        true,false
       ],
       "precio": "$ 1799,99-",
       "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/harry-potter/luna-1.webp",
+      "imgz": "../img/harry-potter/luna-1.webp",
       "linka": [
         "ver colección",
         ""
@@ -199,15 +213,14 @@
     },
     {
       "nompro": "Luna",
-      "descrip": "Revive los recuerdos de una saga llena de magia y encanto.",
+      
       "idpro": "1x",
       "estado": [
-        "Disponible",
-        "agotado"
+        true,false
       ],
       "precio": "$ 1799,99-",
       "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/harry-potter/luna2.png",
+      "imgz": "../img/harry-potter/luna2.png",
       "linka": [
         "ver colección",
         ""
@@ -215,15 +228,14 @@
     },
     {
       "nompro": "Snape Patronus",
-      "descrip": "Revive los recuerdos de una saga llena de magia y encanto.",
+      
       "idpro": "1x",
       "estado": [
-        "Disponible",
-        "agotado"
+        true,false
       ],
       "precio": "$ 1799,99-",
       "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/harry-potter/snape-patronus-1.webp",
+      "imgz": "../img/harry-potter/snape-patronus-1.webp",
       "linka": [
         "ver colección",
         ""
