@@ -8,7 +8,7 @@
   
     {
       "nompro": "Baby Yoda",
-      "idpro": "1x",
+      "prolink": "./sectores/starwar/babyyoda.html",
       "estado": [
        true,false
       ],
@@ -23,7 +23,7 @@
     {
       "nompro": "Trooper",
      
-      "idpro": "1x",
+      "prolink": "./sectores/starwar/trooper.html",
       "estado": [
         true,false
       ],
@@ -38,7 +38,7 @@
     {
       "nompro": "Luke",
      
-      "idpro": "1x",
+      "prolink": "./sectores/starwar/luke.html",
       "estado": [
         true,false
       ],
@@ -51,9 +51,9 @@
       ]
     },
     {
-      "nompro": "Boba Fett",
+      "nompro": "Bobba Feth",
      
-      "idpro": "1x",
+      "prolink": "./sectores/starwar/bobbafeth.html",
       "estado": [
         true,false
       ],
@@ -68,7 +68,7 @@
     {
       "nompro": "Darth Vader",
      
-      "idpro": "1x",
+      "prolink": "./sectores/starwar/darthvader.html",
       "estado": [
         true,false
       ],
@@ -87,8 +87,8 @@
       "frc":["POKEMON INDIGO","Pokemon","pokemonx2"]},
     {
       "nompro": "Charmander",
-      
-      "idpro": "1x",
+      "descrip":"Atrapa todos los que puedas y disfruta de una colección llena de amigos.",
+      "prolink": "./sectores/pokemon/charmander.html",
       "estado": [
         true,false
       ],
@@ -103,7 +103,7 @@
     {
       "nompro": "Dragonite",
       
-      "idpro": "1x",
+      "prolink": "./sectores/pokemon/dragonite.html",
       "estado": [
         true,false
       ],
@@ -118,7 +118,7 @@
     {
       "nompro": "Pidgeotto",
       
-      "idpro": "1x",
+      "prolink": "./sectores/pokemon/pidgeotto.html",
       "estado": [
         true,false
       ],
@@ -133,7 +133,7 @@
     {
       "nompro": "Pikachu",
       
-      "idpro": "1x",
+      "prolink": "./sectores/pokemon/pikachu.html",
       "estado": [
         true,false
       ],
@@ -148,7 +148,7 @@
     {
       "nompro": "Vulpix",
       
-      "idpro": "1x",
+      "prolink": "./sectores/pokemon/vulpix.html",
       "estado": [
         true,false
       ],
@@ -168,8 +168,8 @@
       "frc":["HARRY POTTER", "Harry Potter","harrypx2"]},
     {
       "nompro": "Harry",
-     
-      "idpro": "1x",
+      "descrip":"Revive los recuerdos de una saga llena de magia y encanto.",
+      "prolink": "./sectores/harryp/harry.html",
       "estado": [
         true,false
       ],
@@ -183,8 +183,8 @@
     },
     {
       "nompro": "Hermione",
-      
-      "idpro": "1x",
+      "descrip":"Revive los recuerdos de una saga llena de magia y encanto.",
+      "prolink": "./sectores/harryp/hermione.html",
       "estado": [
         true,false
       ],
@@ -197,9 +197,9 @@
       ]
     },
     {
-      "nompro": "Luna leon",
-      
-      "idpro": "1x",
+      "nompro": "Luna Leon",
+      "descrip":"Revive los recuerdos de una saga llena de magia y encanto.",
+      "prolink": "./sectores/harryp/lunaleon.html",
       "estado": [
         true,false
       ],
@@ -213,8 +213,8 @@
     },
     {
       "nompro": "Luna",
-      
-      "idpro": "1x",
+      "descrip":"Revive los recuerdos de una saga llena de magia y encanto.",
+      "prolink": "./sectores/harryp/luna2.html",
       "estado": [
         true,false
       ],
@@ -228,8 +228,8 @@
     },
     {
       "nompro": "Snape Patronus",
-      
-      "idpro": "1x",
+      "descrip":"Revive los recuerdos de una saga llena de magia y encanto.",
+      "prolink": "./sectores/harryp/snapepatronus.html",
       "estado": [
         true,false
       ],
