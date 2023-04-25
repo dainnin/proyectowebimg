@@ -1,9 +1,9 @@
 {
-  "frcrmd":["starwars","pokemon","harryp"],
+  
   "starwars":[
     {
       "descrip":["Disfruta de una saga que sigue agregando personajes a su colección."],
-      "frc":["START WARS & THE MANDALORIAN","Star Wars","starwarsx2"]
+      "frc":["START WARS & THE MANDALORIAN","Star Wars","starwarsx","starwarsx2"]
     },
   
     {
@@ -84,7 +84,7 @@
   "pokemon": [
     { 
       "descrip":"Atrapa todos los que puedas y disfruta de una colección llena de amigos.",
-      "frc":["POKEMON INDIGO","Pokemon","pokemonx2"]},
+      "frc":["POKEMON INDIGO","Pokemon","pokemonx","pokemonx2"]},
     {
       "nompro": "Charmander",
       "descrip":"Atrapa todos los que puedas y disfruta de una colección llena de amigos.",
@@ -165,7 +165,7 @@
   "harryp": [
     {
       "descrip":"Revive los recuerdos de una saga llena de magia y encanto.",
-      "frc":["HARRY POTTER", "Harry Potter","harrypx2"]},
+      "frc":["HARRY POTTER", "Harry Potter","harrypx","harrypx2"]},
     {
       "nompro": "Harry",
       "descrip":"Revive los recuerdos de una saga llena de magia y encanto.",
