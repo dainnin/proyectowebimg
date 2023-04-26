@@ -79,6 +79,81 @@
         "ver colección",
         ""
       ]
+    },
+  
+    {
+      "nompro": "Baby Yoda",
+      "prolink": "https://dainnin.github.io/dainnin//sectores/starwar/babyyoda.html",
+      "estado": [
+       true,false
+      ],
+      "precio": "$ 1799,99-",
+      "cuotas": "3 Cuotas sin Interés",
+      "imgz": "https://dainnin.github.io/proyectowebimg/img/star-wars/baby-yoda-1.webp",
+      "linka": [
+        "ver colección",
+        ""
+      ]
+    },
+    {
+      "nompro": "Trooper",
+     
+      "prolink": "https://dainnin.github.io/dainnin/sectores/starwar/trooper.html",
+      "estado": [
+        true,false
+      ],
+      "precio": "$ 1799,99-",
+      "cuotas": "3 Cuotas sin Interés",
+      "imgz": "https://dainnin.github.io/proyectowebimg/img/star-wars/trooper-1.webp",
+      "linka": [
+        "ver colección",
+        ""
+      ]
+    },
+    {
+      "nompro": "Luke",
+     
+      "prolink": "https://dainnin.github.io/dainnin/sectores/starwar/luke.html",
+      "estado": [
+        true,false
+      ],
+      "precio": "$ 1799,99-",
+      "cuotas": "3 Cuotas sin Interés",
+      "imgz": "https://dainnin.github.io/proyectowebimg/img/star-wars/luke-1.webp",
+      "linka": [
+        "ver colección",
+        ""
+      ]
+    },
+    {
+      "nompro": "Bobba Feth",
+     
+      "prolink": "https://dainnin.github.io/dainnin/sectores/starwar/bobbafeth.html",
+      "estado": [
+        true,false
+      ],
+      "precio": "$ 1799,99-",
+      "cuotas": "3 Cuotas sin Interés",
+      "imgz": "https://dainnin.github.io/proyectowebimg/img/star-wars/bobbafeth-1.webp",
+      "linka": [
+        "ver colección",
+        ""
+      ]
+    },
+    {
+      "nompro": "Darth Vader",
+     
+      "prolink": "https://dainnin.github.io/dainnin/sectores/starwar/darthvader.html",
+      "estado": [
+        true,false
+      ],
+      "precio": "$ 1799,99-",
+      "cuotas": "3 Cuotas sin Interés",
+      "imgz": "https://dainnin.github.io/proyectowebimg/img/star-wars/darth-vader-1.jpg",
+      "linka": [
+        "ver colección",
+        ""
+      ]
     }
   ],
   "pokemon": [
