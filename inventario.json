@@ -1,5 +1,4 @@
 {
-  
   "starwars":[
     {
       "descrip":["Disfruta de una saga que sigue agregando personajes a su colección."],
@@ -8,7 +7,7 @@
   
     {
       "nompro": "Baby Yoda",
-      "prolink": "https://dainnin.github.io/dainnin//sectores/starwar/babyyoda.html",
+      "prolink": "./sectores/starwar/babyyoda.html",
       "estado": [
        true,false
       ],
@@ -18,12 +17,13 @@
       "linka": [
         "ver colección",
         ""
-      ]
-    },
+      ],
+      "idu":"069001"
+        },
     {
       "nompro": "Trooper",
      
-      "prolink": "https://dainnin.github.io/dainnin/sectores/starwar/trooper.html",
+      "prolink": "./sectores/starwar/trooper.html",
       "estado": [
         true,false
       ],
@@ -33,12 +33,13 @@
       "linka": [
         "ver colección",
         ""
-      ]
+      ],
+      "idu":"069002"
     },
     {
       "nompro": "Luke",
      
-      "prolink": "https://dainnin.github.io/dainnin/sectores/starwar/luke.html",
+      "prolink": "./sectores/starwar/luke.html",
       "estado": [
         true,false
       ],
@@ -49,11 +50,13 @@
         "ver colección",
         ""
       ]
+      ,
+      "idu":"069003"
     },
     {
       "nompro": "Bobba Feth",
      
-      "prolink": "https://dainnin.github.io/dainnin/sectores/starwar/bobbafeth.html",
+      "prolink": "./sectores/starwar/bobbafeth.html",
       "estado": [
         true,false
       ],
@@ -63,12 +66,13 @@
       "linka": [
         "ver colección",
         ""
-      ]
+      ],
+      "idu":"069004"
     },
     {
       "nompro": "Darth Vader",
      
-      "prolink": "https://dainnin.github.io/dainnin/sectores/starwar/darthvader.html",
+      "prolink": "./sectores/starwar/darthvader.html",
       "estado": [
         true,false
       ],
@@ -78,82 +82,8 @@
       "linka": [
         "ver colección",
         ""
-      ]
-    },
-  
-    {
-      "nompro": "Babbjkby Yoda",
-      "prolink": "https://dainnin.github.io/dainnin//sectores/starwar/babyyoda.html",
-      "estado": [
-       true,false
       ],
-      "precio": "$ 1799,99-",
-      "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/star-wars/baby-yoda-1.webp",
-      "linka": [
-        "ver colección",
-        ""
-      ]
-    },
-    {
-      "nompro": "Troopvjjer",
-     
-      "prolink": "https://dainnin.github.io/dainnin/sectores/starwar/trooper.html",
-      "estado": [
-        true,false
-      ],
-      "precio": "$ 1799,99-",
-      "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/star-wars/trooper-1.webp",
-      "linka": [
-        "ver colección",
-        ""
-      ]
-    },
-    {
-      "nompro": "Lubnnke",
-     
-      "prolink": "https://dainnin.github.io/dainnin/sectores/starwar/luke.html",
-      "estado": [
-        true,false
-      ],
-      "precio": "$ 1799,99-",
-      "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/star-wars/luke-1.webp",
-      "linka": [
-        "ver colección",
-        ""
-      ]
-    },
-    {
-      "nompro": "Bobbnnnba Feth",
-     
-      "prolink": "https://dainnin.github.io/dainnin/sectores/starwar/bobbafeth.html",
-      "estado": [
-        true,false
-      ],
-      "precio": "$ 1799,99-",
-      "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/star-wars/bobbafeth-1.webp",
-      "linka": [
-        "ver colección",
-        ""
-      ]
-    },
-    {
-      "nompro": "Dartbnnnh Vader",
-     
-      "prolink": "https://dainnin.github.io/dainnin/sectores/starwar/darthvader.html",
-      "estado": [
-        true,false
-      ],
-      "precio": "$ 1799,99-",
-      "cuotas": "3 Cuotas sin Interés",
-      "imgz": "https://dainnin.github.io/proyectowebimg/img/star-wars/darth-vader-1.jpg",
-      "linka": [
-        "ver colección",
-        ""
-      ]
+      "idu":"069005"
     }
   ],
   "pokemon": [
@@ -163,7 +93,7 @@
     {
       "nompro": "Charmander",
       "descrip":"Atrapa todos los que puedas y disfruta de una colección llena de amigos.",
-      "prolink": "https://dainnin.github.io/dainnin/sectores/pokemon/charmander.html",
+      "prolink": "./sectores/pokemon/charmander.html",
       "estado": [
         true,false
       ],
@@ -173,12 +103,13 @@
       "linka": [
         "ver colección",
         ""
-      ]
+      ],
+      "idu":"069006"
     },
     {
       "nompro": "Dragonite",
       
-      "prolink": "https://dainnin.github.io/dainnin/sectores/pokemon/dragonite.html",
+      "prolink": "./sectores/pokemon/dragonite.html",
       "estado": [
         true,false
       ],
@@ -188,12 +119,13 @@
       "linka": [
         "ver colección",
         ""
-      ]
+      ],
+      "idu":"069007"
     },
     {
       "nompro": "Pidgeotto",
       
-      "prolink": "https://dainnin.github.io/dainnin/sectores/pokemon/pidgeotto.html",
+      "prolink": "./sectores/pokemon/pidgeotto.html",
       "estado": [
         true,false
       ],
@@ -203,12 +135,13 @@
       "linka": [
         "ver colección",
         ""
-      ]
+      ],
+      "idu":"069008"
     },
     {
       "nompro": "Pikachu",
       
-      "prolink": "https://dainnin.github.io/dainnin/sectores/pokemon/pikachu.html",
+      "prolink": "./sectores/pokemon/pikachu.html",
       "estado": [
         true,false
       ],
@@ -218,12 +151,13 @@
       "linka": [
         "ver colección",
         ""
-      ]
+      ],
+      "idu":"069009"
     },
     {
       "nompro": "Vulpix",
       
-      "prolink": "https://dainnin.github.io/dainnin/sectores/pokemon/vulpix.html",
+      "prolink": "./sectores/pokemon/vulpix.html",
       "estado": [
         true,false
       ],
@@ -233,7 +167,8 @@
       "linka": [
         "ver colección",
         ""
-      ]
+      ],
+      "idu":"0690010"
     }
    
   ],
@@ -244,7 +179,7 @@
     {
       "nompro": "Harry",
       "descrip":"Revive los recuerdos de una saga llena de magia y encanto.",
-      "prolink": "https://dainnin.github.io/dainnin/sectores/harryp/harry.html",
+      "prolink": "./sectores/harryp/harry.html",
       "estado": [
         true,false
       ],
@@ -254,12 +189,13 @@
       "linka": [
         "ver colección",
         ""
-      ]
+      ],
+      "idu":"0690011"
     },
     {
       "nompro": "Hermione",
       "descrip":"Revive los recuerdos de una saga llena de magia y encanto.",
-      "prolink": "https://dainnin.github.io/dainnin/sectores/harryp/hermione.html",
+      "prolink": "./sectores/harryp/hermione.html",
       "estado": [
         true,false
       ],
@@ -269,12 +205,13 @@
       "linka": [
         "ver colección",
         ""
-      ]
+      ],
+      "idu":"0690012"
     },
     {
       "nompro": "Luna Leon",
       "descrip":"Revive los recuerdos de una saga llena de magia y encanto.",
-      "prolink": "https://dainnin.github.io/dainnin/sectores/harryp/lunaleon.html",
+      "prolink": "./sectores/harryp/lunaleon.html",
       "estado": [
         true,false
       ],
@@ -284,12 +221,13 @@
       "linka": [
         "ver colección",
         ""
-      ]
+      ],
+      "idu":"0690013"
     },
     {
       "nompro": "Luna",
       "descrip":"Revive los recuerdos de una saga llena de magia y encanto.",
-      "prolink": "https://dainnin.github.io/dainnin/sectores/harryp/luna2.html",
+      "prolink": "./sectores/harryp/luna2.html",
       "estado": [
         true,false
       ],
@@ -299,12 +237,13 @@
       "linka": [
         "ver colección",
         ""
-      ]
+      ],
+      "idu":"0690014"
     },
     {
       "nompro": "Snape Patronus",
       "descrip":"Revive los recuerdos de una saga llena de magia y encanto.",
-      "prolink": "https://dainnin.github.io/dainnin/sectores/harryp/snapepatronus.html",
+      "prolink": "./sectores/harryp/snapepatronus.html",
       "estado": [
         true,false
       ],
@@ -314,7 +253,9 @@
       "linka": [
         "ver colección",
         ""
-      ]
+      ],
+      "idu":"0690015"
     }
   ]
+ 
 }
